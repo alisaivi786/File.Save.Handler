@@ -3,8 +3,8 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
 	<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-	<AssemblyVersion>3.1.0</AssemblyVersion>
-	<FileVersion>3.1.0</FileVersion>
+	<AssemblyVersion>3.1.1</AssemblyVersion>
+	<FileVersion>3.1.1</FileVersion>
 
 	<Title>File.Save.Handler</Title>
 	<PackAsTool>False</PackAsTool>
@@ -12,10 +12,10 @@
 
 	<IncludeSymbols>True</IncludeSymbols>
 	<Description>File Upload .Net 3.1 By ALI MUSHTAQ</Description>
-	<PackageTags>Gallagher;Integration;</PackageTags>
+	<PackageTags>File;Integration;</PackageTags>
 
-	<PackageReleaseNotes>File Add,Update,Delete Handler Versions Available 3.1.0</PackageReleaseNotes>
-	<Version>3.1.0</Version>
+	<PackageReleaseNotes>File Add,Update,Delete Handler Versions Available 3.1.1</PackageReleaseNotes>
+	<Version>3.1.1</Version>
 	<Authors>ALI MUSHTAQ</Authors>
 
 	<RepositoryUrl>https://github.com/alisaivi786/File.Save.Handler.NugetPack</RepositoryUrl>
